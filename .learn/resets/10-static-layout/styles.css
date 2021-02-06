@@ -1,20 +1,5 @@
 /* your code here */
 
-header,
-nav,
-section {
-	margin-left: 10px;
-	margin-right: 10px;
-}
-nav {
-	float: left;
-	width: 20%;
-}
-
-section {
-	overflow: hidden;
-}
-
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
